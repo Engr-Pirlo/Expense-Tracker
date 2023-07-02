@@ -1,0 +1,1 @@
+# hight Order Array Methods also known as higher-order functions or array iteration methods, are functions in programming languages that operate on arrays or collections of data and take other functions as arguments or return functions as results. These methods allow for concise and declarative array processing, often eliminating the need for explicit loops
